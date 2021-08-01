@@ -1,5 +1,5 @@
 # Data Acquisition Interfaces
-    [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) is the process of sampling signals that measure real world physical conditions and converting the resulting samples into digital numeric values that can be manipulated by a computer.
+   [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) is the process of sampling signals that measure real world physical conditions and converting the resulting samples into digital numeric values that can be manipulated by a computer.
 
 
 Data-set >>> ["Obfuscation Revealed: Electromagnetic obfuscated malware classification"](https://zenodo.org/record/4668577)
